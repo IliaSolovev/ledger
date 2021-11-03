@@ -1,6 +1,1 @@
-{
-    "components": [],
-    "versions": [],
-    "setups": [],
-    "tests": []
-}
+{"components":[{"id":"admin-backend","name":"Admin Backend"}],"versions":[],"setups":[],"tests":[]}
