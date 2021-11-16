@@ -1,1 +1,1 @@
-{"components":[{"id":"admin-backend","name":"Admin Backend"},{"id":"admin-ui","name":"Admin UI"}],"versions":[{"date":1636998818166,"componentId":"admin-backend","tag":"0.8.0"},{"date":1636998823264,"componentId":"admin-ui","tag":"0.8.0"}],"setups":[],"tests":[]}
+{"components":[{"id":"admin-backend","name":"Admin Backend"},{"id":"admin-ui","name":"Admin UI"},{"id":"java-agent","name":"Java Agent"}],"versions":[{"date":1636998823264,"componentId":"admin-ui","tag":"0.8.0"},{"date":1636998818166,"componentId":"admin-backend","tag":"0.8.0"}],"setups":[],"tests":[]}
